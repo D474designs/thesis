@@ -1,12 +1,12 @@
 {
-  "name": "vue-event-bulletin",
-  "version": "1.0.0",
-  "description": "Demo application for the scotch.io tutorial",
+  "name": "47events™",
+  "version": "2.0.0",
+  "description": "Hola Code Thesis Project",
   "main": "server.js",
-  "author": "Ryan Chenkie, Jason Lam",
+  "author": "Jaime Orlando Cazares Valdez, Ryan Chenkie, Jason Lam",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.3.7",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
     "morgan": "^1.6.1",
