@@ -6,10 +6,10 @@
   "author": "Jaime Orlando Cazares Valdez, Ryan Chenkie, Jason Lam",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.7",
-    "ejs": "^2.3.4",
-    "express": "^4.13.3",
-    "morgan": "^1.6.1",
+    "bootstrap": "^5.0.0",
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "morgan": "^1.10.1",
     "vue": "^1.0.10",
     "vue-resource": "^0.1.17"
   },
@@ -17,6 +17,6 @@
     "body-parser": "^1.14.1",
     "errorhandler": "^1.4.2",
     "method-override": "^2.3.5",
-    "morgan": "^1.6.1"
+    "morgan": "^1.10.1"
   }
 }
